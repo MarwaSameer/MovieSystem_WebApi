@@ -1,0 +1,2 @@
+distribute IDs
+common attributes in base entity
